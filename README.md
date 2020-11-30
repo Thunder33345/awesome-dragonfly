@@ -1,1 +1,22 @@
-git add README.md
+# Awesome Dragonfly
+> A collection of library related to [dragonfly](https://github.com/df-mc/dragonfly) and [gophertunnel](https://github.com/Sandertv/gophertunnel) project.
+
+#### Table of content
+- [Awesome Dragonfly](#awesome-dragonfly)
+    + [Utilities](#utilities)
+      - [API Clients](#api-clients)
+    + [Addons](#addons)
+    + [Contributing](#contributing)
+
+
+### Utilities
+- [df-worldmanager](https://github.com/Emperials/df-worldmanager) - A multi world manager library.
+
+#### API Clients
+- [df-voteapi](https://github.com/Emperials/df-voteapi) - A minecraftpocket-servers.com API client. 
+
+### Addons
+- [EssentialsGO](https://github.com/Eren5960/EssentialsGO) - A collection of handy commands.
+
+### Contributing
+Something missing from the list? Please submit an issue, or a pull request.
