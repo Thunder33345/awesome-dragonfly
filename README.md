@@ -11,6 +11,7 @@
 
 ### Utilities
 - [df-worldmanager](https://github.com/Emperials/df-worldmanager) - A multi world manager library.
+- [economy](https://github.com/saltcraft/economy) - A simple MYSQL based economy manager for online players
 
 #### API Clients
 - [df-voteapi](https://github.com/Emperials/df-voteapi) - A minecraftpocket-servers.com API client. 
