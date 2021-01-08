@@ -12,6 +12,7 @@
 ### Utilities
 - [df-worldmanager](https://github.com/Emperials/df-worldmanager) - A multi world manager library.
 - [economy](https://github.com/saltcraft/economy) - A simple MYSQL based economy manager for online players
+- [df-bds-gen](https://github.com/T14Raptor/df-bds-gen) - Vanilla world gen based on Bedrock Dedicated Server
 
 #### API Clients
 - [df-voteapi](https://github.com/Emperials/df-voteapi) - A minecraftpocket-servers.com API client. 
@@ -21,3 +22,4 @@
 
 ### Contributing
 Something missing from the list? Please submit an issue, or a pull request.
+Or simply notify me at [Bedrock Gopher Discord](https://discord.gg/aqnXFHehZU)
