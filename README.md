@@ -19,6 +19,7 @@
 
 ### Addons
 - [EssentialsGO](https://github.com/Eren5960/EssentialsGO) - A collection of handy commands.
+- [inaWarp](https://github.com/c0caina/inaWarp) - Simple warp system.
 
 ### Contributing
 Something missing from the list? Please submit an issue, or a pull request.
